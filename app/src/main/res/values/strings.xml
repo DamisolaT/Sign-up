@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Point Delivery</string>
+    <string name="point_delivery">POINT DELIVERY</string>
+    <string name="welcome_to_point_delivery">Welcome to Point Delivery</string>
+    <string name="sign_up_to_begin_with_us">Sign up to begin with us.</string>
+    <string name="details">Details</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="comfirm_password">Comfirm Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_up_with">Sign up with</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in</string>
+</resources>
